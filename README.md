@@ -62,9 +62,7 @@ This project aims to provide personalized movie recommendations by analyzing use
 ```
 netflix-recommendation-system/
 ├── .devcontainer/
-├── Netflix- Recommendation-System.pdf
 ├── Netflix.xlsx
-├── Project Charter.pdf
 ├── Project Planner.mpp
 ├── README.md
 ├── requirements.txt
@@ -76,7 +74,5 @@ netflix-recommendation-system/
 - `requirements.txt`: List of Python dependencies.
 - `Netflix.xlsx`: Dataset containing Netflix titles.
 - `user_data.csv`: Sample user data for generating recommendations.
-- `Netflix- Recommendation-System.pdf`: Project documentation.
-- `Project Charter.pdf`: Project charter outlining objectives and scope.
 - `Project Planner.mpp`: Project planning file.
 
