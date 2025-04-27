@@ -1,6 +1,6 @@
 Netflix Recommendation Model Dashboard can be accessed from here:
 
-https://netflix-movie-recommendation-system.streamlit.app/
+
 
 Snapshots:
 
