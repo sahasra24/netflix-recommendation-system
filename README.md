@@ -1,9 +1,3 @@
-
-[![GitHub - pancr9/Netflix-Recommender-System: ITCS 6190 : Cloud Computing ...](https://tse1.mm.bing.net/th?id=OIP.3XRM5jCctTSSUEbH_eqs7gHaDt&pid=Api)](https://github.com/pancr9/Netflix-Recommender-System)
-Certainly! Here's a sample `README.md` file tailored for the GitHub repository [sahasra24/netflix-recommendation-system](https://github.com/sahasra24/netflix-recommendation-system). This README provides an overview of the project, setup instructions, usage guidelines, and additional resources.
-
----
-
 # Netflix Recommendation System
 
 A Streamlit-based movie recommendation system that suggests personalized movie titles based on user preferences. This project utilizes a dataset of Netflix titles and user data to deliver tailored recommendations.
